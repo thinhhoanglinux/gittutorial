@@ -41,6 +41,6 @@ git push -u origin master
 
 Hoàng Quốc Thịnh
 
-git fetch origin (Download source code mới nhất)
+git fetch origin (Cập nhật lại mọi branch cũng như các file đã được thay đổi trên source)
 
-git reset --hard origin/master (Download source code mới nhất)
+git reset --hard origin/master (Xóa hết và download lại source code mới nhất)
