@@ -38,4 +38,8 @@ git merge <<tên nhánh>>
 Sau khi kết hợp phải push
 git push -u origin master
 
+<<<<<<< HEAD
 
+=======
+Phạm Hồng Phú
+>>>>>>> thinh_branch1
