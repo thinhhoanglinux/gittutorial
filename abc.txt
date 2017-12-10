@@ -39,3 +39,5 @@ Sau khi kết hợp phải push
 git push -u origin master
 
 Phạm Hồng Phú
+
+Hoàng Quốc Thịnh
