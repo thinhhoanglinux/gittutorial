@@ -30,3 +30,4 @@ git checkout -b <<tên nhánh>> (b: born - sinh ra)
 Xóa nhánh
 git branch -d <<tên nhánh>> (d: delete - xóa)
 
+Hoàng Quốc Thịnh
